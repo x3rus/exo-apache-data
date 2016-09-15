@@ -1,0 +1,6 @@
+
+$ cd /var/www
+$ mkdir -p  vhosts/toto/website
+$ mkdir -p  vhosts/toto/logs
+
+$ vim vhosts/toto/website/index.html
