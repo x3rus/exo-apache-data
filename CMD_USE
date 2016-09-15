@@ -19,4 +19,6 @@ $ htpasswd  htpasswd nesta
 $ htpasswd  htpasswd bob
 $ htpasswd  htpasswd bonny
 
+$ vim /var/www/vhosts/toto/privates/groupe
+
 
