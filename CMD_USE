@@ -1,24 +1,2 @@
-# STEP 1
-
-$ cd /var/www/vhosts/toto/website
-$ mkdir admins users
-$ cd admins
-$ touch secret ultra_secret mega_secret FaireSaMarque
-$ cd ../users
-$ touch nos_valeurs tes_valeurs SuperFormation
-
-$ cd /var/www/vhosts/toto/
-$ sudo mkdir privates
-
-# installation package 
-$ apt-get install apache2-utils
-
-$ cd /var/www/vhosts/toto/privates
-$ htpasswd -c htpasswd robert
-$ htpasswd  htpasswd nesta
-$ htpasswd  htpasswd bob
-$ htpasswd  htpasswd bonny
-
-$ vim /var/www/vhosts/toto/privates/groupe
-
+# STEP 2
 
