@@ -26,3 +26,5 @@ $ ls -R
 * validation site medias toutes les images
 $ cd /var/www/vhosts
 $ ls -R medias/website/
+
+* utilisation de la commande convert , pas le temps de le faire en une commande :P
