@@ -19,3 +19,5 @@
 172.17.42.1 - - [19/Sep/2016:09:16:32 -0400] "GET //icons/bomb.png HTTP/1.1" 200 524 "-" "Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0"
 172.17.42.1 - - [19/Sep/2016:09:17:45 -0400] "GET //icons/ubuntu-logo.png HTTP/1.1" 200 3689 "-" "Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0"
 172.17.42.1 - - [19/Sep/2016:09:18:27 -0400] "GET //icons/openlogo-75.png HTTP/1.1" 200 4895 "-" "Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0"
+172.17.42.1 - - [19/Sep/2016:16:58:11 -0400] "GET //icons/Ubuntu.png HTTP/1.1" 404 507 "-" "Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0"
+172.17.42.1 - - [19/Sep/2016:16:58:12 -0400] "GET /favicon.ico HTTP/1.1" 404 501 "-" "Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0"
