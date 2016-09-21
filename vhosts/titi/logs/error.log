@@ -1,0 +1,8 @@
+[Mon Sep 19 17:33:26.215830 2016] [ssl:warn] [pid 747:tid 3075504768] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 19 17:33:26.215890 2016] [ssl:warn] [pid 747:tid 3075504768] AH01909: RSA certificate configured for atelier.x3rus.com:8443 does NOT include an ID which matches the server name
+[Mon Sep 19 17:33:26.215932 2016] [ssl:emerg] [pid 747:tid 3075504768] AH02238: Unable to configure RSA server private key
+[Mon Sep 19 17:33:26.215970 2016] [ssl:emerg] [pid 747:tid 3075504768] SSL Library Error: error:0B080074:x509 certificate routines:X509_check_private_key:key values mismatch
+[Mon Sep 19 17:33:47.830948 2016] [ssl:warn] [pid 801:tid 3074951808] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 19 17:33:47.831054 2016] [ssl:warn] [pid 801:tid 3074951808] AH01909: RSA certificate configured for atelier.x3rus.com:8443 does NOT include an ID which matches the server name
+[Mon Sep 19 17:33:47.831115 2016] [ssl:emerg] [pid 801:tid 3074951808] AH02238: Unable to configure RSA server private key
+[Mon Sep 19 17:33:47.831170 2016] [ssl:emerg] [pid 801:tid 3074951808] SSL Library Error: error:0B080074:x509 certificate routines:X509_check_private_key:key values mismatch
